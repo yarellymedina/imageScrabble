@@ -1,0 +1,15 @@
+{
+    "nombre":"Yarelly",
+    "apellido":"Medina",
+    "colores":["Rojo","Azul","Verde"],
+    "direccion":{
+        "ciudad":"Tegucigalpa",
+        "calle":5,
+        "bloque":5
+    },
+    "amigos":[
+        {"nombre":"Astrid","correo":"azz@gmail.com"},
+        {"nombre":"Dilcia","correo":"dil@gmail.com"},
+        {"nombre":"Dani","correo":"dani@gmail.com"}
+    ]
+}

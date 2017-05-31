@@ -1,0 +1,13 @@
+{
+    
+    "Datos Personales":[
+        {"nombre":"Astrid","apellido":"Medina"},
+        {"numeroTelefono":33180229,"correo":"azzmedina5@gmail.com"}
+    ],
+
+  "AreasFavoritas":[
+        {"Carrera":"Ingenieria en Ciencias de la Computacion"},
+        {"Area":"Redes", "Area2":"Programacion Web", "Area3":"Auditoria de Sistemas", "Area4":"Programacion en .Net"}
+    ]
+}
+   
